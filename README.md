@@ -1,16 +1,10 @@
 # day22_banana_login
 
-A new Flutter project.
+Day 22 Of 30 Days Of Android UI Building Challenge
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/justatulcodes/day22_banana_login/assets/106759388/3f20d751-5c90-41dd-b8d6-a7af879bb469" alt="Image" width="500" height="500">
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/justatulcodes/day22_banana_login/assets/106759388/e5b28e2e-b3ac-43e1-87c2-adf1d8975d56" alt="Image" width="500" height="500">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## [Click To Watch Video](https://www.youtube.com/watch?v=q8SRBYBS8gM&ab_channel=Expeknow)
